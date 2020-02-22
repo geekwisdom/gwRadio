@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <itunes:type>episodic</itunes:type>
+    <language>en-ca</language>
+    <title>GeekWisdom Radio Podcast</title>
+    <link>https://geekwisdom.org/gwRadio</link>
+    <description>GeekWisdom Radio - The ultimate mashup of Handpicked Geeky Audio shows all in one feed.</description>
+    <itunes:summary>The ultimate mashup of Handpicked Geeky Audio shows all in one feed.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>GeekWisdom</itunes:name>
+      <itunes:email>podcasting@geekwisdom.org</itunes:email>
+    </itunes:owner>
+    <copyright>Each audio is copyright by its respective authors</copyright>
+    <itunes:category text="Geek" />
+    <itunes:author>GeekWisdom.org</itunes:author>
+    <itunes:image href="http://geekwisdom.org/gwPodLogo.png"/>
+    <itunes:explicit>No</itunes:explicit>
